@@ -1,2 +1,2 @@
 # Final-Assignment_DIG3480
-## Collaborators: Alyssa Knez, Averie Fielder, Ian Gines, and Mason Kuhn
+## Collaborators: Alyssa Knez, Averie Fiedler, Ian Gines, and Mason Kuhn
